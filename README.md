@@ -1,5 +1,13 @@
 # team-work-dream-work
-creating a team profile page generator
+
+###### lets draw out some steps?
+1. start with building the team, meaning build a list of employees
+2. so from index we will go into employee
+3. then in employee, we will pick manager or intern, or engineer to build next
+4. 
+
+side note, jeff said the har part will be the algorithm to repeatedly ask for a new employee input, and then when done, to stop asking questions and then create the html.
+
 
 ## Your Task
 

@@ -1,0 +1,26 @@
+{
+  "name": "team-work-dream-work",
+  "version": "1.0.0",
+  "description": "creating a team profile page generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashane1/team-work-dream-work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashane1/team-work-dream-work/issues"
+  },
+  "homepage": "https://github.com/kashane1/team-work-dream-work#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
