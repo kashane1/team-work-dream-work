@@ -5,3 +5,5 @@ const Employee = require("./lib/Employee");
 
 // need to create a new list of Employees
 const employeeArray = new Employee;
+
+// employeeArray.buildCards(employeeArray);
